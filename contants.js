@@ -1,0 +1,1 @@
+export const DB_SERVER = "mongodb+srv://nhatduy108:nhatduy108@cluster0.jm0kncs.mongodb.net/?retryWrites=true&w=majority"
